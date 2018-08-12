@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "Kairos Maps",
+    "description": "An app designed to help both students and teachers to find the classes' respective locations.",
+    "version": "1.0.0",
+    "sdkVersion": "27.0.0",
+    "slug": "kairos-maps",
+    "splash": {
+      "image": "./assets/splash.png",
+      "backgroundColor": "#FFFF99",
+    },
+    "icon": "./assets/icon.png",
+    "ios": {
+      "bundleIdentifier": "com.w11wo.kairosmaps"
+    },
+    "android": {
+      "package": "com.w11wo.kairosmaps"
+    }
+  }
+}
